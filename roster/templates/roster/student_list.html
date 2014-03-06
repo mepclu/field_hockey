@@ -1,0 +1,103 @@
+<!-- new file: roster/templates/roster/student.html -->
+
+{% extends "base.html" %}
+{% load url from future %}
+
+{% block content %}
+
+
+
+  <div class="box">
+ 
+
+    <ol class="breadcrumb">
+  <li><a href="{% url 'roster_home' %}">Home</a></li>
+  <li><a href="{% url 'roster_student_list' %}">Field Hockey</a></li>
+</ol>
+
+    <div class="col-md-12">
+    
+     <img src="{{ STATIC_URL }}images/header.jpg" class="img-responsive center-block">
+      
+      <h2>Field Hockey</h2>
+  <p>The North Carolina Tar Heels field hockey team represent the University of North Carolina at Chapel Hill in the Atlantic Coast Conference of NCAA Division I field hockey. North Carolina have played at Francis E. Henry Stadium on campus since 1998. The stadium is shared with the women's lacrosse team and seats over 1,000 fans. Jerseys number seven (for Leslie Lyness) and number thirteen (for Cindy Werley) have been retired. Lyness, Werley, and Laurel Hershey represented the United States at the 1996 Summer Olympics in Atlanta, Georgia.</p>
+
+  <p>Field hockey has been played at North Carolina since the 1940s, but only became a varsity sport in 1971 when the school were a charter member of the Association for Intercollegiate Athletics for Women (AIAW). The team won several state AIAW championships and finished second twice in the AIAW Southern Region II tournament before joining the National Collegiate Athletic Association (NCAA) for the 1982 season.</p>
+
+  </div>
+
+        
+  
+    
+   <div class="col-md-7">
+    
+  <div class="panel panel-default">
+   
+
+
+      <!-- Default panel contents -->
+      <div class="panel-heading">Team Roster</div>
+
+      <!-- Table -->
+      <div class="table-responsive">
+
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Number</th>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Grade</th>
+          </tr>
+        </thead>
+        
+        <tbody>
+
+          <tr>
+            {% for student in students %}
+            <td>{{ student.number }}</td>
+            <td><a href="{{ student.id }}">{{ student.name }}</a></td>
+            <td>{{ student.position }}</td>
+            <td>{{ student.year }}</td>
+         
+
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+   </div>
+ </div>
+</div>
+ <div class="col-md-5">
+<a class="twitter-timeline" href="https://twitter.com/UNCFieldHockey" data-widget-id="438485694625771520">Tweets by @UNCFieldHockey</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<ul class="list-inline">
+<li><img src="{{ STATIC_URL }}images/flickr.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/facebook.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/pinterest.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/instagram.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/twitter-2.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/youtube.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/vimeo.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/blogger.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/feedburner.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/rss.png" class="img-responsive"></li>
+</ul>
+<h3> Coaching Staff</h3>
+Karen Shelton  -  Head Coach</br>
+Teryn Brill  -  Assistant Coach</br>
+Grant Fulton  -  Associate Head Coach</br>
+
+</div>
+ 
+
+<div class="row">
+<div class="col-md-12">
+  
+  
+
+
+
+
+{% endblock %}

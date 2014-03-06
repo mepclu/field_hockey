@@ -1,0 +1,141 @@
+<!-- new file: roster/templates/roster/student.html -->
+
+{% extends "base.html" %}
+{% load url from future %}
+
+{% block content %}
+
+
+
+  <div class="box">
+ 
+
+    <div class="col-md-12">
+    	<ol class="breadcrumb">
+  		<li><a href="{% url 'roster_home' %}">Home</a></li>
+		</ol>
+    
+     <img src="{{ STATIC_URL }}images/homeheader.jpg" class="img-responsive center-block">
+      <br>
+  <p>UNC produces some of the top athletes and teams in the Atlantic Coast Conference and the NCAA. Varsity teams compete in 13 men’s and 15 women’s sports. The campus at Chapel Hill is referred to as the University of North Carolina for the purposes of the National Collegiate Athletic Association.The University of North Carolina at Chapel Hill was chartered in 1789, and in 1795 it became the first state-supported university in the United States. Since the school fostered the oldest collegiate team in the Carolinas, the school took on the nickname "Carolina," especially in athletics. The Tar Heels are also referred to as North Carolina, UNC, or The Heels.</p>
+<p>The mascot of the Tar Heels is Rameses, a Bighorn Ram. It is represented as either a live Dorset sheep with its horns painted Carolina Blue, or as a costumed character performed by a volunteer from the student body, usually an undergraduate student associated with the cheer leading team.
+Carolina has won 40 NCAA Division I team national championships in seven different sports, ninth all-time, and 51 individual national championships.</p>
+
+  </div>
+
+        
+  
+    
+   <div class="col-md-7">
+    <h1> UNC Honors Standout Tar Heels</h2>
+    
+  <p> The UNC Department of Athletics honored outstanding student-athletes Tuesday evening, recognizing 2013-14 Athletic Director's Scholar-Athletes and Leaders of Distinction at the Dean E. Smith Center at halftime of the men's basketball game against Maryland, a 75-63 win for the Tar Heels.<p>
+
+
+
+<p>Also honored as Athletic Director's Scholar-Athletes for 2013-14 are Kacie Albert (women's fencing), Kaitlyn Anderson (volleyball), Sara Buchholz (softball), Malia Cali (women's cross country), Brad Dillon (men's swimming and diving), Paige Hanson (women's lacrosse), Mike Jacobs (men's cross country), Cody Johnson (football), Frankie Kelly (men's lacrosse), 
+   
+ Marta Malmberg
+
+(<a href="{% url 'roster_student_list' %}">field hockey</a>), Wade Moody (men's basketball), Benton Moss (baseball), Katherine Perry (women's golf), Sarah Priest (rowing), Laura Slater (women's tennis), Nelson Vick (men's tennis) and David Walden (men's soccer).</p>
+
+      
+    
+   </div>
+ 
+ <div class="col-md-5">
+ <div class="panel panel-default">
+      <!-- Default panel contents -->
+      <div class="panel-heading">Upcoming Games</div>
+
+      <!-- Table -->
+      <div class="table-responsive">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Team</th>
+            <th>Opponent</th>
+            <th>Location</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        
+        <tbody>
+
+          <tr>
+           
+            <td><a href="{% url 'roster_student_list' %}">Field Hockey</a></li></td>
+            <td>Duke</a></td>
+            <td>Home</td>
+            <td>3/15/14</td>
+         
+
+          </tr>
+          <tr>
+           
+            <td>Mens Basketball</td>
+            <td>Va Tech</a></td>
+            <td>Away</td>
+            <td>3/17/14</td>
+         
+
+          </tr>
+
+          <tr>
+           
+            <td>Womens Basketball</td>
+            <td>Georgia</a></td>
+            <td>Home</td>
+            <td>3/17/14</td>
+         
+
+          </tr>
+           <tr>
+           
+            <td>Womens Lacrosse</td>
+            <td>Wake forest</a></td>
+            <td>Home</td>
+            <td>3/18/14</td>
+         
+
+          </tr>
+          <tr>
+           
+            <td>Mens Soccer</td>
+            <td>Perdue</a></td>
+            <td>Home</td>
+            <td>3/18/14</td>
+         
+
+          </tr>
+        </tbody>
+      </table>
+   </div>
+ </div>
+
+<ul class="list-inline">
+<li><img src="{{ STATIC_URL }}images/flickr.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/facebook.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/pinterest.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/instagram.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/twitter-2.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/youtube.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/vimeo.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/blogger.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/feedburner.png" class="img-responsive"></li>
+<li><img src="{{ STATIC_URL }}images/rss.png" class="img-responsive"></li>
+</ul>
+
+
+</div>
+ 
+
+<div class="row">
+<div class="col-md-12">
+  
+  
+
+
+
+
+{% endblock %}

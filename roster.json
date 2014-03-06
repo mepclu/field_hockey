@@ -1,0 +1,452 @@
+[
+    { 
+        "pk":1,
+        "model":"roster.Student",
+        "fields": {
+            "number":"01",
+            "name":" Jessica Pereira",
+            "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/UZ/UZCTJBLBMRHYRUF.20130816215951.jpg",
+            "position":"Midfield/Forward",
+            "height":"5'3",
+            "year":"Fr.",
+            "hometown":"Palmerton, Pa. ",
+            "major":"Undeclared",
+            "bio":"Jessica was nominated as the Top Female Athlete her junior and senior years at Palmerton High School. She also served as president of National Honor Society",
+            "stats":"2013: Saw no play her freshman year.",
+            "national":"No national accolades at this time",
+            "before":"At Palmerton (Pa.) High School, captained her high school team and was honored as MVP and Most Aggressive Player. She was also lettered four years in track. As a junior was league and district champion in the 100, 400 and triple jump."
+        }
+  },
+  {
+    "pk":2,
+    "model":"roster.Student",
+    "fields": {
+            "number":"02",
+            "name":" Loren Shealy",
+            "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/ST/STUWRMPWJTLQJMB.20130816215958.jpg",
+            "position":"Forward",
+            "height":"5'5",
+            "year":"Jr.",
+            "hometown":"Charlotte, N.C. ",
+            "major":"Business Administration",
+            "bio":"Loren is a Robertson Scholar, splitting her time between the UNC and Duke campuses. She was selected for the program in the spring of 2012 and is the first student-athlete from UNC to take part. Loren was also named to the Dean's List and ACC Academic Honor Roll and is a member of the Honors Program . During the summer of 2012, Loren was in Vietnam with the Coach for College program. In addition, she participates in the Baddour Carolina Leadership Academy as part of the Rising Stars Program. Loren graduated from high school earnly to enroll at UNC in January of 2011 as a \"gray shirt,\" and practiced with the team during the spring season",
+            "stats":"2012: As a sophomore, Loren played in all 25 games and started 12. She was ranked second on the team in goals with 16 and third in points with 34. Loren was named All-ACC Tournament after scoring two goals in the championship game win over Maryland. She won the NCAA Elite 89 Award as the student-athlete at the field hockey championship site with the highest cumulative GPA. She was honored as a Scholar of Distinction and a National Scholar Athlete by the National Field Hockey Coaches Association. Loren was also named All-ACC Academic and selected for the Academic All-District 3 At-Large Team. Loren was also named the Sports Illustrated Female College Athlete of the Year in recognition of her academic and athletic success\n2011: As a freshman, Loren played in all 25 games and started six. She was named the team's Rookie of the Year scoring four goals and  two assists. The first goal of her career was the game-winner in a 2-1 overtime win over Wake Forest on Sept. 18. One of her assists came on Kelsey Kolojejchick's gamewinner in UNC's 4-3 2OT win over UConn in the NCAA semifinal.",
+            "national":" Loren is a member of the South Region High Performance Team in 2012 and 2013. She was a Futures participant 2005-10, Futures Elite Athlete in 2010-11 and a South Junior High Performance Team in 2011",
+            "before":"At Charlotte Country Day School, Loren lettered four years in field hockey and basketball and three in track. As a senior in 2010, she was named NFHCA All-America and All-South Region and was a two-time all-state selection and three-time all-conference pick as well as Team MVP and Charlotte Field Hockey Player of the Year in her junior and senior years. Loren helped her team to a state championship in 2009. She was named to the 2010-11 NFHCA National Academic Squad and was the NSCA Strength and Conditioning All-America pick in 2011. She as also her school's Scholar Athlete of the Year for 2010-11. Served as president of Honor Council and was a Joe Martin Bank of America Scholar"
+            }
+  },
+  {
+    "pk":3,
+    "model":"roster.Student",
+    "fields": {
+        "number":"03",
+        "name":" Kristy Bernatchez",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/RG/RGWEAUHPZNMTABH.20130816215906.jpg",
+        "position":"Midfielder",
+        "height":"5'7",
+        "year":"Fr.",
+        "hometown":"Belgrade, Maine ",
+        "major":"Undeclared",
+        "bio":"",
+        "stats":"Kristy saw no regular season UNC play her freshman year.",
+        "national":"Kristy is a member of the U.S. Under-19 National Team 2012-14 and a former member of the U.S. Under-17 Team. She has participated in the Futures program since 2010 playing in the  National Futures Championship 2010, 2013. She was in the Junior Olympics in 2011, when she was honored with the Most Outstanding Performance award. Kristy played for Majestix field hockey club attending Disney Showcase 2010-12, National Festival 2009-2013 and National Indoor Tournament 2011-2013. Kristy won a gold medal in Pool A at National Festival in 2013",
+        "before":"At Messalonskee High School in Oakland, Maine, Kristy was named Miss Maine Field Hockey and Kennebec Journal Player of the Year as a senior. This four-time all-state and all-conference honoree and two-year team MVP was team captain her senior year. She scored 47 goals in her senior season, setting a new state scoring record. Her team was Eastern Maine runner-up four years in a row. She was MVP of the 2013 Senior All-Star Game."
+        }
+  },
+  {
+    "pk":4,
+    "model":"roster.Student",
+    "fields": {
+        "number":"04",
+        "name":" Samantha Travers",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/UD/UDRMROTWPBNOOKO.20130816220003.jpg",
+        "position":"Back",
+        "height":"5'7",
+        "year":"Jr.",
+        "hometown":"Harare, Zimbabwe ",
+        "major":"Communications Studies and Sociology, Minor Business Entrepreneurship",
+        "bio":"Participates in the Baddour Carolina Leadership Academy as part of the GAP Year program ... Enrolled at UNC in Jan. of 2010 and practiced with the team through the spring semester",
+        "stats":"2012: As a sophomore, Samantha switched from forward to back and played in all 25 games, starting 24 scoring eight goals and one assist. She made one defensive save and shared ACC Player of the Week honors on Sept. 11 after she scored five goals over a two game span and also helped the UNC defense to shutouts in both of those games. 2011: As a redshirt freshman, Samantha came off the bench to play in all 25 games scoring 11 goals, tied for third on the team. She also had three assists. 2010: Samantha enrolled at UNC in January of 2010 and practiced with the team through the spring semester. She appeared in the first three games of the season then suffered an injury that kept her off the field for the rest of the fall. Received a redshirt season and will have four years of eligibility remaining",
+        "national":" Samantha was a member of the U21, U18 and U16 teams for Zimbabwe. In addition she played two years of golf, representing Zimbabwe. She was a member of the U16 and U18 tennis teams for Zimbabwe and was the singles and doubles champion 2004-09. Samantha was also a member of Zimbabwe's U18 and U16 squash teams",
+        "before":" Samantha attended Peterhouse Girls School where, in addition to golf, tennis squash and hockey, she also competed in the debate club."
+        }
+  },
+  {
+    "pk":5,
+    "model":"roster.Student",
+    "fields": {
+        "number":"05",
+        "name":" Charlotte Craddock",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/JY/JYQEFBRWEAXDGSA.20130816215918.jpg",
+        "position":"Forward",
+        "height":"5'9",
+        "year":"Jr.",
+        "hometown":"Wolverhampton, England ",
+        "major":"Public Policy and Peace, War, and Defense",
+        "bio":"",
+        "stats":"2012: As a sophomore, Charlotte earned first-team All-America honors. She started all 19 games in which she appeared and led UNC in goals with 26, establishing a new school record for goals by a sophomore. She also had six assists for a team-high 58 points. Charlotte was named All-ACC and All-NCAA Tournament and was twice named ACC Player of the Week (Sept. 18, Oct. 9) and shared the honor on (Oct. 30). She sat out the first six games of the season to satisfy NCAA eligibility requirements.",
+        "national":" Charlotte was the youngest member of England's team at the Beijing Olympics in 2008. She earned her first international cap in 2007. She  helped England to a bronze at the 2010 Commonwealth Games in India.",
+        "before":"Charlotte graduated from Repton School in Derbyshire, England. She attended University of Bristol and played for the University of Bristol Ladies Hockey Club."
+        }
+  },
+  {
+    "pk":6,
+    "model":"roster.Student",
+    "fields": {
+        "number":"06",
+        "name":" Meghan Drake",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/WN/WNPDYZRZWYAJIEE.20130816215924.jpg",
+        "position":"Back",
+        "height":"5'8",
+        "year":"Sr.",
+        "hometown":"Forth Worth, Texas ",
+        "major":"Biology, Minor in Spanish",
+        "bio":"Named to the ACC Academic Honor Roll ... Comes from the same high school program as Riley Foster, who played for the Tar Heels from 2006-09",
+        "stats":"2012: As a junior, Meghan started 22 games on defense and played in 23. She was named to the NFHCA National Academic Squad for the second year in a row and to the All-ACC Academic Team for the first time. 2011: As a sophomore, Meghan played in nine games, was honored as the team's Laree Beans Practice Player of the Year, and was a runaway winner for the award. She was named to the NFHCA National Academic Squad 2010: As a redshirt freshman, appeared in six games at back 2009: Meghan did not see action and will count the year as a redshirt season.",
+        "national":"Rachel was a Futures participant 2003-09 and National Futures Tournament participant 2006-09. She played at the National Hockey Festival in 2008 and '09 and was Bronze medalist at the Junior Olympics",
+        "before":"At Trinity Valley School, Meghan was a four-year varsity starter and team MVP her junior and senior years. This three-time all-conference pick  was naamed her team's top defensive player her sophomore through senior years. She also lettered four years in softball and basketball. Meghan was a four-time all-conference selection and three-time MVP in softball."
+        }
+  },
+  {
+    "pk":7,
+    "model":"roster.Student",
+    "fields": {
+        "number":"08",
+        "name":" Rachel Magerman",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/AL/ALTAYDPIFFWHPYF.20130816215940.jpg",
+        "position":"Midfielder",
+        "height":"5'5",
+        "year":"Sr.",
+        "hometown":"Blue Bell, Pa. ",
+        "major":"Advertising",
+        "bio":"Participates in the Baddour Carolina Leadership Academy as part of the Veteran Leaders program ... In the summer of 2013, captained the U.S. Maccabi Games field hockey team to a bronze medal",
+        "stats":"2012: As a junior, Rachel appeared in 20 games and started three scoring two goals and added an assist. One of her goals was a penalty stroke against Davidson, and the other was against Wake Forest in the ACC Tournament semifinal. 2011: As a sophomore, she played in 10 contests 2010: As a redshirt freshman, Rachel appeared in nine games. 2009: Did not see action and will count the season as a redshirt year. ",
+        "national":" Rachel served as captain of the U.S. Maccabi Games team in the summer of 2013. Competing in Israel, the U.S. earned the bronze medal, the country's best finish ever. She was a Futures Elite 2007-09, Junior National Camp invitee 2007-08 and participated in the U.S. Under-18 team's 2008 tour of Chile. She was a member of the 2008 Maccabi Pan American Games team",
+        "before":"At Germantown Academy, Rachel earned first-team All-America honors as a senior after being named second-team in her junior year. She was named team MVP her sophomore through senior years. She also lettered three years in lacrosse and founded \"Hockey for the House,\" a field hockey tournament to benefit the Ronald McDonald House. The annual event has raised more than $10,000 over the last four years"
+        }
+  },
+  {
+    "pk":8,
+    "model":"roster.Student",
+    "fields": {
+        "number":"09",
+        "name":" Emily Wold",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/TY/TYSOKBWRCHPDIXV.20130816220005.jpg",
+        "position":"Midfield/Back",
+        "height":"5'7",
+        "year":"So.",
+        "hometown":"Freehold, N.J. ",
+        "major":"Communication Studies",
+        "bio":"A member of the U.S. National Team and the Under-21 National Team",
+        "stats":"2012: As a freshman, Emily started all 20 games in which she appeared and was named ACC Freshman of the Year. She was also named third-team All-America earning All-ACC, All-ACC Tournament, All-NCAA Tournament and All-South Region honors. She scored three goals and added eigh assists and was named ACC Player of the Week on Oct. 23 after scoring the gamewinner in an overtime victory at Maryland. She missed five games in September while competing as part of the U.S. Junior National Team at the Junior Pan American Games, where the U.S. won bronze.",
+        "national":" She was a member of the 2013 Women's National team and Under-21 National Team. In the summer of 2013,  Emily played with the National Team at the World League Semi-Finals in London and the U-21 team at the Junior World Cup in Germany, the 2011 U19 US National team, the 2010 U17 US National team, the 2009-2011 Futures Elite. She was also a 2009-2012 Junior National Camp Selection, participated in the 2008-2010 Junior Olympics, 2007-2010 National Futures Championships. She traveled on U.S. tours to Uruguay (U-17, Youth Pan Am Games), Ireland and Germany (U-21), Chile (U-19) and England (U-21)",
+        "before":"At Freehold Boro High School, this two-time All-America and all-region selection was also  a 2009-11 All-Shore first team, 2011 Asbury Park Press Player of the Year, and a 2012 New Jersey Transcript Female Athlete of the Year. She helped her team to two state titles and holds school records career goals, career assists and most goals in a season. "
+        }
+  },
+  {
+    "pk":9,
+    "model":"roster.Student",
+    "fields": {
+        "number":"00",
+        "name":" Sassi Ammer",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/HT/HTLSKJILSLOZEHR.20130816215904.jpg",
+        "position":"Goalkeeper",
+        "height":"5'9",
+        "year":"Jr.",
+        "hometown":"Munich, Germany ",
+        "major":"Exercise and Sports Science, Minor in Chemistry and Biology",
+        "bio":" Participates in the Carolina Leadership Academy as part of the Rising Stars program and also is a CREED mentor, helping freshman student-athletes adjust to college life ... Member of the German Under-21 team and played three matches against England over the summer",
+        "stats":"2012: As a sophomore, played in all 25 games, starting 23. She was honored with the team's Dawson Family Most Improved Player Award and finished the season with a goals against average of 1.21, allowing only 29 goals over 25 games (1676 minutes played). She had six solo shutouts and shared one more for a total of seven on the season. Sassi made 76 saves for a .724 saves percentage. 2011: As a freshman, Sassi played in all 25 games and started 20 in goal. She was named to the All-Atlantic Coast Conference team and allowed just 17 goals in 25 games and finished the season with a goals-against average of 0.86, the lowest in the ACC. She recorded four solo shutouts and was a part of eight more. Made a season-high four saves against Boston College on Oct. 8 and in the national semifinal game against Connecticut.",
+        "national":"Sassi Member of the German Under-21 team and played three matches against England over the summer. She played for the U-18 National Team in 2010 and the U-16 National Team in 2009. Sassi was named Goalkeeper of the Tournament at the 2009-10 indoor German Championships, when her club team finished second.  Her team also was second at the indoor championships in 2007-08 and eight in 2008-09.",
+        "before":"Sassi attended Theresia Gerhardinger Gymnasium in Munich. Sassi was selected as best goalkeeper at the South German youth championships in 2008. In addition to field hockey, has played soccer and participated in skiing, snowboarding, ballet and horseback riding"
+        }
+  },
+  {
+    "pk":10,
+    "model":"roster.Student",
+    "fields": {
+        "number":"10",
+        "name":" Nina Notman",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/OK/OKEHMLNPSHNCZDX.20130816215949.jpg",
+        "position":"Midfield/Back",
+        "height":"6'0",
+        "year":"So.",
+        "hometown":"Hamburg, Germany ",
+        "major":"Business Administration",
+        "bio":"",
+        "stats":"Nina has seen no regular season play at UNC.",
+        "national":"Nina played for the Under-16, Under-18 and Under. 21 German National Teams. She captained the German Under-21 team to the fourth-rank European Championship in 2012",
+        "before":" Nina gaduated from Carl-von-Ossietzky Gymnasium in 2010 . Her team was the German Champion in 2009 and 2011. Nina was named the Best Player at the German Indoor Championship in 2009 and was the Runner-up at European Champions Cup in 2010"
+        }
+  },
+  {
+    "pk":11,
+    "model":"roster.Student",
+    "fields": {
+        "number":"11",
+        "name":" Sinead Loughran",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/RR/RRMYZGETCYWNAUT.20130816215938.jpg",
+        "position":"Forward",
+        "height":"5'4",
+        "year":"Sr.",
+        "hometown":"Dublin, Ireland ",
+        "major":"Communication Studies",
+        "bio":"Participates in the Baddour Carolina Leadership Academy as part of the Rising Stars program",
+        "stats":"2012: As a junior, Sinead played in all 25 games and started 16 scoring six goals. 2011: As a sophomore, she came off the bench to play in 21 games, with one goal (vs. Appalachian State) and one assist (vs. Lafayette). 2010: As a freshman, Sinead came off the bench to play in all 25 games scoring two goals, one at Wake Forest and one against Radford. She enrolled at UNC in January of 2010 and practiced with the team throughout the spring semester prior to her freshman year",
+        "national":"Sinead has no national accolades at this time",
+        "before":"Sinead ttended Mount Anville School, which is also the alma mater of Mary Robinson, the first female president of Ireland and a U.N. Commissioner for Human Rights. She played for Leinster Province Under-16s and Under-18s. Her team was the Leinster Schools Cup runner-up in 2004 and made the quarterfinals in every other year she played. Sinead Participated in the Irish International Under-16 trials and competed in Gaelic football, on both club and county teams. Sinead won Leinster and All-Ireland championships on seven occasions."
+        }
+  },
+  {
+    "pk":12,
+    "model":"roster.Student",
+    "fields": {
+        "number":"12",
+        "name":" Sam Night",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/XV/XVUMFIEACUYPXFP.20130816215946.jpg",
+        "position":"Midfield/Forward",
+        "height":"5'3",
+        "year":"Fr.",
+        "hometown":"Houston, Texas ",
+        "major":"Undeclared",
+        "bio":"",
+        "stats":"Saw no regular season play her freshman year.",
+        "national":"Played in the national Futures Championship 2011 and Junior Olympics 2011",
+        "before":"At St. John's School in Houston, Sam helped her team to Southwest Preparatory Conference championships in 2011 and 2012. As a senior (2012), she named to the NFHCA High School All-West Region team and the NFHCA High School National Academic Squad. Sam also earned SPC All-Conference honors in 2012 and All-South Zone honors in 2010 and 2011. She served as team captain as a senior. In addition to hockey, Sam also competed in track & field, helping her school to three conference championships and earning all-conference honors her freshman through senior years. She was St. John's School Athletic Excellence nominee 2009-2013. Sam was named to the High Honor Roll 2009-13 and served as Tour Guild Chair as a senior"
+        }
+  },
+  {
+    "pk":13,
+    "model":"roster.Student",
+    "fields": {
+        "number":"14",
+        "name":" Emma Bozek",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/RD/RDWABFAPDATUGHQ.20130816215911.jpg",
+        "position":"Midfield/Forward",
+        "height":"5'7",
+        "year":"So.",
+        "hometown":"Cortlandt Manor, N.Y. ",
+        "major":"Undeclared",
+        "bio":"A member of the U.S. Under-21 National Team",
+        "stats":"2012: As a freshman, Emma appeared in 19 games and started five scoring six goals with three assists. She missed five games in September while competing as part of the U.S. Junior Women's National Team a the Pan American Junior Championship in Guadalajara, Mexico. She helped the U.S. to a bronze medal in that event. Emma was named to the NFHCA National Academic Squad and the All-ACC Academic Team.",
+        "national":"Emma is a member of the Under-21 National Team since 2011 representing the U.S. at the Junior World Cup in Germany in July 2013. She was a member of the U.S. Under-17 team in 2010 and part of the Under-21 tour to England in 2011 and the Under-17 tour to Holland in 2010.",
+        "before":"At Lakeland Senior High School in Shrub Oak, N.Y., Emma was named the 2011 NHSCA Field Hockey Player of the Year earning NFHCA high school All-America honors in her junior and senior years. She led her teams to state championships in her sophomore, junior and senior years and earned All-America honors in lacrosse"
+        }
+  },
+  {
+    "pk":14,
+    "model":"roster.Student",
+    "fields": {
+        "number":"15",
+        "name":" Tyler Powell",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/TA/TAWUYQLLIXWVXAH.20130816215956.jpg",
+        "position":"Forward",
+        "height":"5'8",
+        "year":"RFr.",
+        "hometown":"Cary, N.C. ",
+        "major":"Undeclared",
+        "bio":"Wears No. 15 in honor of former Tar Heel and 2008 Olympian Jesse Gey, who played for the same club program (X-Calibur) she did",
+        "stats":"2012: Did not see action and will count the year as a redshirt season. Tyler was named to the NFCHA National Academic Squad",
+        "national":"Played for X-Calibur club team under Coach Brian Hope. Tyler  was a National Indoor Tournament Champions (2011, 12) and played at the  National Hockey Festival Champions (2010, 11), Big Apple International Indoor Champions (2011), and the Canadian Indoor Classic (2012). She participated in USAFH Futures 2007-12",
+        "before":"At Cary Academy, Tyler was a three-time all-state selection and a four-time all-conference pick. She was named to the NFHCA National Academic Squad in 2011. She served as a team captain as a junior and senior and played in the North Carolina All-Star Game in 2010 and 2011. Tyler holds four school records, three in field hockey (career goals, career assists, goals in a season) and one in track (sprint medley). She was named her school's Female Athlete of the Year in 2012 and Raleigh News & Observer Scholar-Athlete of the Week. Tyler also earned all-state honors in track running the third leg of state championship 4x100 team.Tyler was a finalist for UNC's prestigious Morehead-Cain Scholarship"
+        }
+  },
+  {
+    "pk":15,
+    "model":"roster.Student",
+    "fields": {
+        "number":"16",
+        "name":" Julia Young",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/SQ/SQWWLCMVVULLNUQ.20130816220010.jpg",
+        "position":"Back",
+        "height":"5'6",
+        "year":"Fr.",
+        "hometown":"Yorktown, Va. ",
+        "major":"Undeclared",
+        "bio":"Current member of the U.S. Under-19 National Team",
+        "stats":"Julia saw no regular season play her freshman season.",
+        "national":"Julia is a member of the 2013-14 U.S. Under-19 Team and a former member of U-17 Team. She has participated in the national Futures Championship, Futures Elite Championship, South Futures Elite Academy, Futures Elite and Junior Olympics. She plays for Focus Field Hockey club team, 2012 Regional Club Champion, 2011 National Indoor Tournament Champion and 2010 National Field Hockey Festival Champion.",
+        "before":" At Grafton High School, Julia captained her team as a senior and was a three-year starter. Her team reached the state championship all four years and was state runner-up in 2011. This three-time all-state, all-region and all-district selection was also on the Daily Press All-Stars team in 2010-12. In 2011, Julia was named NFHCA All-America and All-South Region. She also competed in track & field, setting school and regional records in the high jump. In 2012, Julia was the  indoor track state champion in high jump and named Second-team All-America in 2011 and 2012. "
+        }
+  },
+  {
+    "pk":16,
+    "model":"roster.Student",
+    "fields": {
+        "number":"17",
+        "name":" Caroline Plyler",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/IM/IMVBBKDPISHQRNL.20130816215954.jpg",
+        "position":"Midfield/Back",
+        "height":"5'7",
+        "year":"RFr.",
+        "hometown":"Charlotte, N.C. ",
+        "major":"Undeclared",
+        "bio":" Her older sister, Katie, played for UNC from 2008-12",
+        "stats":"2012: Did not see action and will count the year as a redshirt season.",
+        "national":"Caroline played at National Futures Championship in 2011 and 2012 and was a Futures program participant since eighth grade. She played for Ambush Field Hockey Club",
+        "before":"At Charlotte Country Day, earned all-state and all-conference honors her junior and senior year. She severed as team captain and MVP as a senior. Caroline helped her team to a state title in 2010. She also played four years of soccer, earning all-conference and second-team all-region honors. Caroline participated in four years of indoor track, serving as team captain and earning MVP honors as a senior. She is also a two-year member of the track and field team. Caroline graduated with a school-record 14 varsity letters and was a recipient of the Victoria Ludorum Award as the school's top female athlete"
+        }
+  },
+  {
+    "pk":17,
+    "model":"roster.Student",
+    "fields": {
+        "number":"18",
+        "name":" Rachel Black",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/GS/GSZGEBHNNXPWDIT.20130816215908.jpg",
+        "position":"Forward",
+        "height":"5'5",
+        "year":"RFr.",
+        "hometown":"Clemmons, N.C. ",
+        "major":"Undeclared",
+        "bio":"",
+        "stats":"2012: Did not see action and will count the season as a redshirt year. Rachel was named to the NFHCA National Academic Squad.",
+        "national":" Rachel was Futures participant 2008-12 finishing 10th at 2012 National Club Championships with the Charlotte Ambush. She played at the National Hockey Festival with the Ambush in 2010 and 2011, and participated in the 2010 National Futures Championship.",
+        "before":"At West Forsyth High School in Clemmons, N.C., Rachel earned Most Valuable Offensive Player honors all four years of field hockey. Her teams won three conference championships (going undefeated in conference play 2009-11) and reached the state championship semifinals all four years. This three-time all-state and four-time all-conference and all-county selection holds the school record for career goals. Rachel also participated in track & field her freshman and sophomore years. She graduated with honors. Rachel coached a middle school field hockey team. She is also active in volunteer work and is an experienced equestrian who has been riding since she was 8"
+        }
+  },
+  {
+    "pk":18,
+    "model":"roster.Student",
+    "fields": {
+        "number":"19",
+        "name":" Lauren Moyer",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/CC/CCVTMSYJWTYQWGY.20130816215944.jpg",
+        "position":"Forward",
+        "height":"5'5",
+        "year":"Fr.",
+        "hometown":"York, Pa. ",
+        "major":"Undeclared",
+        "bio":"A member of the 2013 U.S. Under-19 Team",
+        "stats":"Saw no regular season play at UNC her freshman year.",
+        "national":"Lauren is a current member of the U.S. Under-19 National Team and a  two-year member (2013-14, 2012-13) of the U.S. Women's Junior National Indoor Team. She represented the U.S. on a tour of Germany. She was a participant in the 2012 and 2013 Futures Elite Championship (2013 Champions - Team North). She played for Nook Hockey Club (2013 National Club Championship finalist, silver; 2013 Regional Club Championship, Champions of Region 5; 2013 National Hockey Festival, Pool C Champions). Casey also participated in the National Indoor Tournament, 2011-13, the National Hockey Festival, 2011-12 and helped her team to a bronze medal at Junior Olympics in 2011.",
+        "before":" At Central York High School, Casey served as team captain as a senior.She was a four-year varsity starter and earned all-state honors. She was also named to the Senior All-Academic Team, and the Harrow Sports/NFHCA High School All-Region Pennsylvania second-team. She led her team in goals, assists and defensive saves as a senior. She was named the York Daily Record/Sunday News Division 1 All-Star in her junior and senior years, the 2011 and 2012 YAIAA All-League/County AAA first team , the 2012 YAIAA All-League/County Academic team and to the Senior All-Star team. Casey also lettered in soccer, starting as a freshman. She is a member of the ODP in 2010, member of Latin Honor Society , a distinguished Honor Roll 2007-13 and the 2013 Shipley Distinguished Achievement Award recipient"
+        }
+  },
+  {
+    "pk":19,
+    "model":"roster.Student",
+    "fields": {
+        "number":"21",
+        "name":" Casey Di Nardo",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/BA/BAABYTITIGCXWSE.20130816215921.jpg",
+        "position":"Forward",
+        "height":"5'3",
+        "year":"So.",
+        "hometown":"Virginia Beach, Va. ",
+        "major":"Undeclared",
+        "bio":"Current member of the U.S. Under-19 National Team",
+        "stats":"2012: As a freshman, appeared in 17 games ... Scored two goals ... Named to the NFHCA National Academic Squad",
+        "national":" Casey is a member of the 2012 U.S. Under-19 National Team. She participated in the Canadian tour with the 2011 U-17 team. She was also a member of the Junior National Women's Championship Team in 2011 and Junior High Performance Squad in 2010-11. Casey was named Futures Elite in 2007-12 and to the Junior Olympics in 2006-10.",
+        "before":"At Frank W. Cox High School in Virginia Beach, Casey was a four-year varsity starter and earned NFHCA All-America first team honors. She served as team captain as a senior, when she was named all-state, Virginia Beach & Norfolk Sports Club Female Athlete of the Year and Eastern Region & Beach District Player of the Year. This two-time all-region, All-Tidewater and All-Beach honoree received Cox's Kurt Felthousen Memorial Award as Female Athlete of the Year. She helped her team to state championships in 2008 and '09. Cox was ranked No. 1 in the nation in 2009 . She was also the recipient of Cox Falcon Medallion, awarded to outstanding seniors and a member of National Honor Society"
+        }
+  },
+  {
+    "pk":20,
+    "model":"roster.Student",
+    "fields": {
+        "number":"24",
+        "name":" Marta Malmberg",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/HY/HYHRVHYGZBTVIPJ.20130816215942.jpg",
+        "position":"Midfielder",
+        "height":"5'2",
+        "year":"Sr.",
+        "hometown":"Marathon, N.Y. ",
+        "major":"Business Administration, Minor Cognitive Psychology",
+        "bio":"",
+        "stats":"2012: As a junior, Marta appeared in 20 games and started six scoring four goals and two assists. She was 1-for-1 in penalty strokes, with her stroke coming against ODU in the NCAA Tournament second round game . Marta was named to the NFHCA National Academic Squad and the All-ACC Academic Team, both for the third year in a row. 2011: As a sophomore, she started all 25 games scoring six goals and nine assists. Marta was 2-for-3 in penalty strokes and was the only player on the team to take more than one. One of her strokes was the gamewinner in the 95th minute of play as UNC beat Michigan 4-3 in double overtime on Senior Day (Oct. 23). She was the recipient of the Elite 89 Award as the player at the final four with the highest cumulative GPA. Marta was also named to the All-ACC Academic team and honored as an NFHCA Scholar-Athlete. 2010: As a freshman, started all 25 games for the Tar Heels and was named third-team All-American. Marta also earned All-ACC, All-ACC Academic and All-South Region honors. She scored nine goals, fourth on the team, and added 11 assists for 29 points. Marta was named to the NFHCA National Academic Squad and selected as the team's Ken and Cheryl Williams Rookie of the Year",
+        "national":"Marta was a member of the U.S. National Development Team (2009-2013) and U.S. Under-21 team (2008-2013). She earned her first cap with the National Team in May of 2010. She participated in the Junior World Cup in 2009 and played at the Australian Youth Olympic Festival in 2008, and the 2008 U.S. Junior Pan Am team. She was a member of the High Performance Championship Team 2008-2010, the Olympic Development Select 2007-2010, the US Under-19 Chile Tour Team , the US Under-16 Can-Am Challenge 2007, and  the Under-16 ODS/Futures Elite Holland Tour Team",
+        "before":"At Marathon Central School, Marta was selected as the NHSCA Senior Athlete of the Year in 2010. She was named the three-time NFHCA first-team All-America pick. Captain her junior and senior years and helped her team to three state championships. Marta graduated as the class salutatorian."
+        }
+  },
+  {
+    "pk":21,
+    "model":"roster.Student",
+    "fields": {
+        "number":"25",
+        "name":" Abby Frey",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/HD/HDGEWYDOFDBBOMV.20130816215928.jpg",
+        "position":"Back",
+        "height":"5'3",
+        "year":"Jr.",
+        "hometown":"Lehighton, Pa. ",
+        "major":"Exercise and Sports Science",
+        "bio":"",
+        "stats":"2012: As a sophomore, Abby played in all 25 games, starting 24. She finished the year with two goals and an assist. Abby was Recipient of the team's Marjorie Moses Schwab Unsung Hero Award. 2011: As a redshirt freshman, she played in 14 games scoring two goals and had one assist. Abby led all UNC female athletes in strength & conditioning testing, earning top honors in the Super Ram (measuring overall athleticism) and Iron Ram (measuring relative strength) categories for the 2011-12 school year. 2010: Abby was sidelined by an injury and will count the year as a redshirt season",
+        "national":"No national accolades at this time.",
+        "before":" At Lehighton Area High School, Abby lettered in field hockey all four years. Serving as team captain her senior year, Abby led her team to the state championship. This three time district and conference champion was  named Offensive MVP in her sophomore, junior and senior years. Abby also lettered in track, soccer, and basketball. As a senior on the track team, Abby qualified for the state meet in four events and won conference titles in the 100 meters, long jump and 4x100 relay."
+        }
+  },
+  {
+    "pk":22,
+    "model":"roster.Student",
+    "fields": {
+        "number":"26",
+        "name":" Blissie Du Bose",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/MO/MOYRGGCFSCVBKGL.20130816215926.jpg",
+        "position":"Forward",
+        "height":"5'6",
+        "year":"Fr.",
+        "hometown":"Charlottesville, Va. ",
+        "major":"Undeclared",
+        "bio":"",
+        "stats":"Blissie has seen no regular season play at UNC yet.",
+        "national":" Blissie participated in USAFH Futures 2010-2013. She also played at the National Hockey Festival with Carolina Fury in 2011 and with the Field Hockey Life Club Team in 2012",
+        "before":"At St. Anne's-Belfield School in Charlottesville, Blissie helped her team to two conference titles (2011, 2012) and an eighth-place finish in the state. She was the recipient of the Coaches' Award for her team and was nominated for the Women in Sports Award for field hockey. Blissie was also the captain of her indoor club team, C'ville C'lect, in 2010. She helped her team place third in summer adult league at the Commonwealth of Virginia games. Blissie is also an avid tennis and lacrosse player.  She earned Dean's List honors all four years and High Honor Roll her junior and senior years. Outside of the field hockey, Blissie was editor in Chief of the yearbook, active in community service and serves on the Teen Board of Ronald McDonald House."
+        }
+  },
+  {
+    "pk":23,
+    "model":"roster.Student",
+    "fields": {
+        "number":"31",
+        "name":" Shannon Johnson",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/DY/DYCJEXWTLJSEDKK.20130816215935.jpg",
+        "position":"Goalkeeper",
+        "height":"5'3",
+        "year":"Fr.",
+        "hometown":"Ocean Port, N.J. ",
+        "major":"Undeclared",
+        "bio":"Her sister, Aileen, is a sophomore on the Duke field hockey team",
+        "stats":"",
+        "national":"Shannon is a current member of the U.S. Under-19 national team and a former Under-17 national team member in 2011-12. She was named Top Goalie on the U-17's 2011 tour of Holland. Shannon was a Futures Elite playing in the National Futures Championship and Junior Olympics participant. Shannon plays for Jersey Intensity club team winning gold medals at the National Festival (2008, 2009), National Indoor Festival (2010, 2011) and Disney Festival (2012)",
+        "before":"At Shore Regional High School, Shannon was a four-year starter at goalie. She captained the team her senior year. During her four years, her team lost only six games and won state championships in 2009 and 2011 while winning conference and division championships all four years. Named All-American and all-state as a senior, Shannnon was also Player of the Year by the Asbury Park Press and Monmouth County Player of the Year by the Star-Ledger. She was elected team MVP as a senior after earning Defensive Player of the Year honors the previous two years. In addition, Shannon was named all-county (four years), all-division (four years), and All-Shore (three years). When not defending a goal, Shannon was a member of Student Council and Fellowship of Christian Athletes."
+        }
+  },
+  {
+    "pk":24,
+    "model":"roster.Student",
+    "fields": {
+        "number":"77",
+        "name":" Janne Grove",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/LA/LAUEEBROGAPQVVF.20130816215933.jpg",
+        "position":"Back",
+        "height":"5'3",
+        "year":"Gr.",
+        "hometown":"Hamburg, Germany ",
+        "major":"MBA at Kenan-Flagler Business School",
+        "bio":"Janne is a graduate of Hochschule Fresenius in Hamburg, Germany. She is also the first Tar Heel to play in jersey No. 77",
+        "stats":"Janne has seen no regular season play to date.",
+        "national":"Janne was a member of the German Under-21 and Under-18 National Teams ",
+        "before":" A graduate of both Gymnasium Heidberg (high school) and Hochschule Fresenius (undergraduate degree) both located in in Hamberg, Germany, Janne received an award from the City of Hamburg for outstanding achievement in sports. She played for Germany's Under-21 and Under-18 teams and was the German U18 Champion in 2008. She was also the German Champion in 2009 and 2011. Janne help her team place second at European Club Champions Cup in 2010."
+        }
+  },
+  {
+    "pk":25,
+    "model":"roster.Student",
+    "fields": {
+        "number":"86",
+        "name":" Rosie Wood",
+        "url": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/NL/NLAHESWEPNIPMBM.20130816220008.jpg",
+        "position":"Goalkeeper",
+        "height":"5'9",
+        "year":"So.",
+        "hometown":"Quinton, Va. ",
+        "major":"Undeclared",
+        "bio":"Joined the team in the spring of 2013",
+        "stats":"Rosie has seen no regular season play at UNC yet.",
+        "national":"No national accolades at this time.",
+        "before":"At New Kent (Va.) High School, Rosie captained the field hockey team and earned honorable mention all-district honors. "
+        }
+}
+]
